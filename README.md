@@ -1,4 +1,4 @@
-# Implementation and Comparison of two solutions to Yao's Millionaires’ Problem
+# Implementation of two solutions to Yao's Millionaires’ Problem
 
 ## Project Intro
 This project implemented two protocols to Yao's Millionaires' Problem. Both protocols are implemented with python.
