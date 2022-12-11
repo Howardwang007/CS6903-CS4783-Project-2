@@ -1,6 +1,6 @@
 from Crypto.Util import number
 
-for n in range(5, 10):
+for n in range(9,10):
 	if n == 65:
 		n = 64
 	print("Number of bits",n)

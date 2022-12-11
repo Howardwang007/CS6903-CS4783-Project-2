@@ -5,7 +5,8 @@ import random
 import time
 import math
 
-from config import BUFSIZE, ADDRESS, encryptDecrypt, isPrime
+from config import BUFSIZE, ADDRESS, encryptDecrypt
+from Crypto.Util import number
 
 # create socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -135,7 +136,7 @@ def secret_num(num, a_c):
     n[i] = encryptDecrypt(a_c + i, privateKeyBob)
   m = n[1:]
   # Choose a large prime p (<M1); Bob can know the size of M1
-  primes = [i for i in range(2, 2 ** (m1 - 1)) if isPrime(i)]
+  primes = [number.getPrime(m1 - 1) for i in range(100)]
   z = [0] * rangeN
   prime = random.choice(primes)
   primes.remove(prime)

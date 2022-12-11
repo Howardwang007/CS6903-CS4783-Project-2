@@ -118,10 +118,3 @@ def get_all_time(time_obj):
 def encryptDecrypt(message, key):
     c = pow(message, key[0]) % key[1]
     return c
-
-
-def isPrime(i):
-  for j in range(2, i):
-    if i % j == 0:
-      return False
-  return True
