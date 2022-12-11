@@ -3,7 +3,11 @@
 ## Project Intro
 This project implemented two protocols to Yao's Millionaires' Problem. Both protocols are implemented with python.
 1. Yao's protocol
-- TO FILL
+- Communication
+    - via socket connection
+    - Adopt congig.py support over 20 nodes
+- Millionaire Problem Based
+    - Fix Value via sending value
 2. Ioannidis and Ananth's protocol
 - Communication
     - communication takes place at localhost
