@@ -71,9 +71,9 @@ print(('Received Public Key : ', publicKeyBob))
 
 # Generate and send length of random number M1
 N = n.bit_length()
-m1 = random.getrandbits(N)
+m1 = random.SystemRandom().randint(0, (1 << N))
 while m1 >= n:
-  m1 = random.getrandbits(N)
+  m1 = random.SystemRandom().randint(0, (1 << N))
 N = m1.bit_length()
 s = str(N)
 client.send(str.encode(s))

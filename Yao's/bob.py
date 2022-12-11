@@ -2,11 +2,11 @@
 import socket
 import pickle
 import random
-import time
 import math
 
 from config import BUFSIZE, ADDRESS, encryptDecrypt
 from Crypto.Util import number
+import time
 
 # create socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -138,7 +138,7 @@ def secret_num(num, a_c):
   # Choose a large prime p (<M1); Bob can know the size of M1
   primes = [number.getPrime(m1 - 1) for i in range(100)]
   z = [0] * rangeN
-  prime = random.choice(primes)
+  prime = random.SystemRandom().choice(primes)
   primes.remove(prime)
   for i in range(0, len(m)):
     z[i] = m[i] % prime
@@ -154,7 +154,7 @@ def secret_num(num, a_c):
           condt = 0
     if condt == 0:
       if primes:
-        prime = random.choice(primes)
+        prime = random.SystemRandom().choice(primes)
         # If conditions fails repeat the process
         primes.remove(prime)
         for i in range(0, len(m)):
