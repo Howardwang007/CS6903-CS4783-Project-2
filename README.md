@@ -5,7 +5,7 @@ This project implemented two protocols to Yao's Millionaires' Problem. Both prot
 1. Yao's protocol
 - Communication
     - via socket connection
-    - Adopt congig.py support over 20 nodes
+    - Adopt config.py support over 20 nodes
 - Millionaire Problem Based
     - RSA key size is determined by the bit-size of the value being sent
 2. Ioannidis and Ananth's protocol
@@ -26,7 +26,7 @@ Denpendencies:
 3. run ``` python3 bob.py```, lastly enter bob's coordinate number and distance between server
 4. run ``` python3 performance.py```, to test performance automated or manually type value to debug
 5. Additional Notes:
-    - congig.py support add more nodes 
+    - config.py support add more nodes 
 ### Ioannidis and Ananth's protocol
 1. run ``` python3 alice.py``` first, and enter alice's number
 2. run ``` python3 bob.py```, then enter bob's number
