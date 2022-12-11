@@ -6,7 +6,9 @@ import json
 import time
 import os
 
-number_size = 64
+number_size = 0
+with open('number_size', 'r') as f:
+	number_size = int(f.read())
 
 def randint(upper): #generate random number from 0 - upper
 	upper += 1 #include upper
@@ -127,9 +129,11 @@ class Bob:
 
 def main():
 	B = Bob(int(input('Input Bob\'s number: ')))
-
+	
 	s = socket.socket()
-	port = 12345
+	port = 0
+	with open('port_number', 'r') as f:
+		port = int(f.read())
 	s.connect(('127.0.0.1', port))
 
 	B.getInfo(json.loads(s.recv(2048).decode()))

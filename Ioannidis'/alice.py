@@ -6,7 +6,9 @@ import time
 import json
 import os
 
-number_size = 64
+number_size = 0
+with open('number_size', 'r') as f:
+	number_size = int(f.read())
 
 def randint(upper): #generate random number from 0 - upper
 	upper += 1 #include upper
@@ -160,20 +162,22 @@ class Alice:
 
 def main():
 	A = Alice(int(input('Input Alice\'s number: ')))
-
+	
 	s = socket.socket()
 	try:
-		port = 12345
-
+		port = 0
+		with open('port_number', 'r') as f:
+			port = int(f.read())
+	
 		s.bind(('', port))
 		 
 		s.listen(5)
-
+	
 		(c, addr) = s.accept()
 		c.send(json.dumps(A.sendInfo()).encode('UTF-8'))
-
+		#print(addr)
 		time.sleep(0.01)
-
+	
 		for i in range(number_size):
 			A.init()
 			c.send(json.dumps(A.sendX()).encode('UTF-8'))
@@ -181,10 +185,10 @@ def main():
 			A.getV(int(c.recv(2048).decode()))
 			c.send(json.dumps(A.sendMsg()).encode('UTF-8'))
 			time.sleep(0.01)
-
+	
 		result = c.recv(2048).decode()
 		c.close()
-
+	
 		#print(f'Alice Number: {A.getNumber()}')
 		print(f'{result} is larger')
 	finally:

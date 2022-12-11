@@ -1,0 +1,1407 @@
+	 1 1
+	The run-time for the round is 0.7366s
+	 1 1
+	The run-time for the round is 0.7215s
+	 1 1
+	The run-time for the round is 0.7391s
+	 1 1
+	The run-time for the round is 0.7070s
+	 1 1
+	The run-time for the round is 0.7153s
+	 1 1
+	The run-time for the round is 0.7376s
+	 1 1
+	The run-time for the round is 0.7499s
+	 1 1
+	The run-time for the round is 0.7166s
+	 1 1
+	The run-time for the round is 0.6896s
+	 1 1
+	The run-time for the round is 0.7168s
+The average run-time for 1-bit number is 0.7230s
+
+	 2 2
+	The run-time for the round is 0.8395s
+	 2 2
+	The run-time for the round is 0.8437s
+	 2 2
+	The run-time for the round is 0.7992s
+	 3 3
+	The run-time for the round is 0.7791s
+	 3 2
+	The run-time for the round is 0.8285s
+	 2 2
+	The run-time for the round is 0.8408s
+	 2 3
+	The run-time for the round is 0.8404s
+	 3 2
+	The run-time for the round is 0.7968s
+	 2 2
+	The run-time for the round is 0.7827s
+	 2 2
+	The run-time for the round is 0.7913s
+The average run-time for 2-bit number is 0.8142s
+
+	 4 7
+	The run-time for the round is 0.9232s
+	 5 5
+	The run-time for the round is 0.9627s
+	 5 6
+	The run-time for the round is 0.9519s
+	 6 6
+	The run-time for the round is 0.9324s
+	 5 7
+	The run-time for the round is 0.8839s
+	 6 6
+	The run-time for the round is 0.9410s
+	 7 5
+	The run-time for the round is 0.9190s
+	 4 5
+	The run-time for the round is 1.1511s
+	 4 4
+	The run-time for the round is 1.1325s
+	 5 6
+	The run-time for the round is 1.1547s
+The average run-time for 3-bit number is 0.9952s
+
+	 11 9
+	The run-time for the round is 1.3429s
+	 8 12
+	The run-time for the round is 1.3287s
+	 11 9
+	The run-time for the round is 1.2732s
+	 12 10
+	The run-time for the round is 1.2871s
+	 11 15
+	The run-time for the round is 1.2971s
+	 11 15
+	The run-time for the round is 1.3512s
+	 14 13
+	The run-time for the round is 1.3498s
+	 8 11
+	The run-time for the round is 1.2901s
+	 9 12
+	The run-time for the round is 1.3331s
+	 12 14
+	The run-time for the round is 1.3659s
+The average run-time for 4-bit number is 1.3219s
+
+	 16 19
+	The run-time for the round is 1.4286s
+	 19 17
+	The run-time for the round is 1.4364s
+	 20 27
+	The run-time for the round is 1.4995s
+	 30 30
+	The run-time for the round is 1.4482s
+	 28 20
+	The run-time for the round is 1.4841s
+	 28 21
+	The run-time for the round is 1.5088s
+	 21 27
+	The run-time for the round is 1.4838s
+	 26 24
+	The run-time for the round is 1.4367s
+	 18 28
+	The run-time for the round is 1.1482s
+	 28 26
+	The run-time for the round is 1.1910s
+The average run-time for 5-bit number is 1.4065s
+
+	 32 58
+	The run-time for the round is 1.2339s
+	 32 49
+	The run-time for the round is 1.3138s
+	 38 54
+	The run-time for the round is 1.6228s
+	 59 37
+	The run-time for the round is 1.5985s
+	 62 61
+	The run-time for the round is 1.6006s
+	 46 50
+	The run-time for the round is 1.6601s
+	 51 40
+	The run-time for the round is 1.7195s
+	 62 42
+	The run-time for the round is 1.6641s
+	 55 32
+	The run-time for the round is 1.7304s
+	 35 42
+	The run-time for the round is 1.7036s
+The average run-time for 6-bit number is 1.5847s
+
+	 104 117
+	The run-time for the round is 1.7264s
+	 66 71
+	The run-time for the round is 1.7776s
+	 82 73
+	The run-time for the round is 1.7503s
+	 95 96
+	The run-time for the round is 1.3684s
+	 80 77
+	The run-time for the round is 1.3557s
+	 111 90
+	The run-time for the round is 1.7513s
+	 105 74
+	The run-time for the round is 1.7132s
+	 124 97
+	The run-time for the round is 1.7523s
+	 101 124
+	The run-time for the round is 1.7618s
+	 106 111
+	The run-time for the round is 1.7542s
+The average run-time for 7-bit number is 1.6711s
+
+	 181 175
+	The run-time for the round is 1.9276s
+	 206 153
+	The run-time for the round is 1.8943s
+	 153 229
+	The run-time for the round is 1.4169s
+	 188 179
+	The run-time for the round is 1.4444s
+	 186 159
+	The run-time for the round is 1.4813s
+	 192 211
+	The run-time for the round is 1.4705s
+	 195 231
+	The run-time for the round is 1.9150s
+	 253 173
+	The run-time for the round is 1.9177s
+	 187 143
+	The run-time for the round is 1.9361s
+	 149 156
+	The run-time for the round is 1.9822s
+The average run-time for 8-bit number is 1.7386s
+
+	 448 339
+	The run-time for the round is 2.0181s
+	 265 430
+	The run-time for the round is 1.5897s
+	 341 437
+	The run-time for the round is 1.5374s
+	 324 317
+	The run-time for the round is 1.6151s
+	 461 437
+	The run-time for the round is 1.6044s
+	 408 360
+	The run-time for the round is 1.5112s
+	 404 338
+	The run-time for the round is 1.5625s
+	 347 475
+	The run-time for the round is 1.5005s
+	 460 395
+	The run-time for the round is 1.5011s
+	 337 462
+	The run-time for the round is 1.5439s
+The average run-time for 9-bit number is 1.5984s
+
+	 677 847
+	The run-time for the round is 1.7550s
+	 819 906
+	The run-time for the round is 1.6699s
+	 542 1001
+	The run-time for the round is 1.6787s
+	 744 995
+	The run-time for the round is 1.6789s
+	 951 603
+	The run-time for the round is 1.7487s
+	 866 719
+	The run-time for the round is 2.0850s
+	 524 958
+	The run-time for the round is 2.2313s
+	 983 967
+	The run-time for the round is 2.2236s
+	 887 672
+	The run-time for the round is 2.2188s
+	 671 992
+	The run-time for the round is 2.2505s
+The average run-time for 10-bit number is 1.9540s
+
+	 1745 1075
+	The run-time for the round is 2.4629s
+	 2021 1162
+	The run-time for the round is 2.3947s
+	 1585 1274
+	The run-time for the round is 2.4668s
+	 1854 1225
+	The run-time for the round is 2.3721s
+	 1656 1325
+	The run-time for the round is 2.1419s
+	 1347 1253
+	The run-time for the round is 1.7195s
+	 1913 1434
+	The run-time for the round is 1.7390s
+	 1332 1357
+	The run-time for the round is 1.9444s
+	 1137 1089
+	The run-time for the round is 1.7043s
+	 1502 1743
+	The run-time for the round is 1.8113s
+The average run-time for 11-bit number is 2.0757s
+
+	 3777 3832
+	The run-time for the round is 2.5511s
+	 2644 3760
+	The run-time for the round is 2.4810s
+	 2133 3923
+	The run-time for the round is 2.4530s
+	 3765 3271
+	The run-time for the round is 2.9603s
+	 2623 2577
+	The run-time for the round is 2.6376s
+	 2672 2579
+	The run-time for the round is 2.5455s
+	 2357 2427
+	The run-time for the round is 2.5041s
+	 3716 2784
+	The run-time for the round is 2.4975s
+	 4053 3242
+	The run-time for the round is 2.5724s
+	 2991 3484
+	The run-time for the round is 2.5922s
+The average run-time for 12-bit number is 2.5795s
+
+	 6671 6305
+	The run-time for the round is 2.6281s
+	 4316 4502
+	The run-time for the round is 2.6804s
+	 5661 8093
+	The run-time for the round is 2.6789s
+	 4502 5453
+	The run-time for the round is 2.6848s
+	 7045 8016
+	The run-time for the round is 2.7755s
+	 4548 4589
+	The run-time for the round is 2.8378s
+	 5291 4425
+	The run-time for the round is 2.7249s
+	 5128 5453
+	The run-time for the round is 2.8296s
+	 4456 7161
+	The run-time for the round is 2.6043s
+	 6900 4804
+	The run-time for the round is 1.9446s
+The average run-time for 13-bit number is 2.6389s
+
+	 14860 13394
+	The run-time for the round is 2.0508s
+	 11467 14987
+	The run-time for the round is 2.0871s
+	 15381 14415
+	The run-time for the round is 2.0687s
+	 11547 10285
+	The run-time for the round is 2.1420s
+	 10530 9547
+	The run-time for the round is 2.0705s
+	 13460 15898
+	The run-time for the round is 2.0005s
+	 8690 14626
+	The run-time for the round is 2.0608s
+	 10032 14257
+	The run-time for the round is 3.0093s
+	 14941 13368
+	The run-time for the round is 2.9116s
+	 13583 15421
+	The run-time for the round is 2.7579s
+The average run-time for 14-bit number is 2.3159s
+
+	 20701 25833
+	The run-time for the round is 3.0342s
+	 21956 23237
+	The run-time for the round is 2.9124s
+	 29472 16728
+	The run-time for the round is 2.7182s
+	 31100 22200
+	The run-time for the round is 2.0927s
+	 27350 31816
+	The run-time for the round is 2.2639s
+	 32736 30559
+	The run-time for the round is 2.1503s
+	 29948 28952
+	The run-time for the round is 2.1815s
+	 27421 32626
+	The run-time for the round is 2.9198s
+	 16635 24932
+	The run-time for the round is 2.9107s
+	 25485 17792
+	The run-time for the round is 2.9742s
+The average run-time for 15-bit number is 2.6158s
+
+	 58669 56573
+	The run-time for the round is 3.1030s
+	 32816 47731
+	The run-time for the round is 3.1706s
+	 59196 56042
+	The run-time for the round is 3.1918s
+	 52163 38267
+	The run-time for the round is 3.2335s
+	 59850 39185
+	The run-time for the round is 3.1719s
+	 53907 64162
+	The run-time for the round is 3.1674s
+	 57602 61956
+	The run-time for the round is 3.3579s
+	 33958 64605
+	The run-time for the round is 3.2176s
+	 49319 34959
+	The run-time for the round is 3.2000s
+	 57500 53463
+	The run-time for the round is 3.1612s
+The average run-time for 16-bit number is 3.1975s
+
+	 128370 100492
+	The run-time for the round is 3.6368s
+	 107749 86388
+	The run-time for the round is 3.6200s
+	 96778 108793
+	The run-time for the round is 3.2379s
+	 124325 77286
+	The run-time for the round is 3.3852s
+	 107946 125778
+	The run-time for the round is 3.3431s
+	 88656 115813
+	The run-time for the round is 3.3643s
+	 118287 95979
+	The run-time for the round is 3.5848s
+	 101922 69840
+	The run-time for the round is 3.3700s
+	 65915 106031
+	The run-time for the round is 3.2863s
+	 74380 96862
+	The run-time for the round is 3.9484s
+The average run-time for 17-bit number is 3.4777s
+
+	 212466 224081
+	The run-time for the round is 3.5250s
+	 225138 192667
+	The run-time for the round is 3.4145s
+	 169336 139430
+	The run-time for the round is 3.5429s
+	 214028 253758
+	The run-time for the round is 3.4731s
+	 239712 191160
+	The run-time for the round is 3.4851s
+	 180199 196175
+	The run-time for the round is 3.4294s
+	 201459 196283
+	The run-time for the round is 3.4897s
+	 180221 183436
+	The run-time for the round is 3.3757s
+	 231502 204498
+	The run-time for the round is 3.4240s
+	 148625 199228
+	The run-time for the round is 3.4298s
+The average run-time for 18-bit number is 3.4589s
+
+	 366617 310892
+	The run-time for the round is 3.6127s
+	 262906 305296
+	The run-time for the round is 3.6824s
+	 346177 523656
+	The run-time for the round is 3.7316s
+	 320119 447303
+	The run-time for the round is 3.5923s
+	 331548 441324
+	The run-time for the round is 3.6899s
+	 410955 513606
+	The run-time for the round is 3.7199s
+	 489550 363704
+	The run-time for the round is 3.6114s
+	 295549 311624
+	The run-time for the round is 3.6092s
+	 377278 289910
+	The run-time for the round is 3.6537s
+	 475469 507292
+	The run-time for the round is 3.5622s
+The average run-time for 19-bit number is 3.6465s
+
+	 778177 760677
+	The run-time for the round is 3.7914s
+	 1010305 612700
+	The run-time for the round is 3.8016s
+	 746497 620631
+	The run-time for the round is 3.9013s
+	 613406 924994
+	The run-time for the round is 3.6578s
+	 568062 718973
+	The run-time for the round is 3.6552s
+	 757721 731494
+	The run-time for the round is 3.8026s
+	 879637 925352
+	The run-time for the round is 3.7279s
+	 774592 568091
+	The run-time for the round is 3.8040s
+	 539420 914724
+	The run-time for the round is 3.6727s
+	 747357 1004901
+	The run-time for the round is 3.0776s
+The average run-time for 20-bit number is 3.6892s
+
+	 1147686 2076149
+	The run-time for the round is 2.7548s
+	 1185127 1108853
+	The run-time for the round is 2.7576s
+	 1575454 1783127
+	The run-time for the round is 3.0375s
+	 1780950 1141768
+	The run-time for the round is 2.8380s
+	 1761007 1343724
+	The run-time for the round is 2.9586s
+	 1830839 1289675
+	The run-time for the round is 2.7284s
+	 1706607 1133722
+	The run-time for the round is 3.2706s
+	 1197483 2049465
+	The run-time for the round is 3.9596s
+	 1904427 1228177
+	The run-time for the round is 3.8407s
+	 1350377 1686390
+	The run-time for the round is 3.8545s
+The average run-time for 21-bit number is 3.2000s
+
+	 2317334 3304579
+	The run-time for the round is 4.0797s
+	 2597019 3896579
+	The run-time for the round is 4.0304s
+	 3009733 3192366
+	The run-time for the round is 4.0388s
+	 2829852 2382119
+	The run-time for the round is 3.9702s
+	 3076115 2277571
+	The run-time for the round is 3.9317s
+	 3209479 2744311
+	The run-time for the round is 3.9516s
+	 3277978 2776882
+	The run-time for the round is 3.9314s
+	 3462529 3018101
+	The run-time for the round is 3.8605s
+	 4079461 2638131
+	The run-time for the round is 2.9544s
+	 3761818 2502896
+	The run-time for the round is 3.1964s
+The average run-time for 22-bit number is 3.7945s
+
+	 5218897 7991372
+	The run-time for the round is 2.8744s
+	 5389403 7214039
+	The run-time for the round is 3.1488s
+	 5587163 6477387
+	The run-time for the round is 3.0164s
+	 4202949 6510057
+	The run-time for the round is 2.9634s
+	 7896841 6581152
+	The run-time for the round is 2.9501s
+	 7901633 8380236
+	The run-time for the round is 4.0574s
+	 4471657 7543217
+	The run-time for the round is 4.0741s
+	 6034154 6796816
+	The run-time for the round is 4.2403s
+	 8010169 5099580
+	The run-time for the round is 4.2561s
+	 5420175 5287677
+	The run-time for the round is 4.1910s
+The average run-time for 23-bit number is 3.5772s
+
+	 14715375 10914939
+	The run-time for the round is 4.4593s
+	 15081438 10606557
+	The run-time for the round is 4.3514s
+	 10118243 15681362
+	The run-time for the round is 3.1639s
+	 9898836 13646206
+	The run-time for the round is 3.1266s
+	 11874347 14177030
+	The run-time for the round is 3.0169s
+	 11040706 13677173
+	The run-time for the round is 3.0830s
+	 8479625 10804818
+	The run-time for the round is 4.0224s
+	 12355277 14192757
+	The run-time for the round is 4.4393s
+	 16451625 9680863
+	The run-time for the round is 4.3470s
+	 15143419 16289659
+	The run-time for the round is 4.3181s
+The average run-time for 24-bit number is 3.8328s
+
+	 20815010 25370781
+	The run-time for the round is 4.4243s
+	 24549771 21188859
+	The run-time for the round is 4.4422s
+	 25707391 23293638
+	The run-time for the round is 4.4014s
+	 30200811 18097658
+	The run-time for the round is 3.2628s
+	 24310314 24974737
+	The run-time for the round is 3.5087s
+	 31300079 33027885
+	The run-time for the round is 3.1985s
+	 18080423 26133803
+	The run-time for the round is 3.4548s
+	 26189723 26739910
+	The run-time for the round is 3.1842s
+	 23416380 18495655
+	The run-time for the round is 4.7123s
+	 17487263 32642330
+	The run-time for the round is 4.4580s
+The average run-time for 25-bit number is 3.9047s
+
+	 64371717 56590524
+	The run-time for the round is 4.5579s
+	 58180688 46090944
+	The run-time for the round is 4.6317s
+	 63143947 57939085
+	The run-time for the round is 4.6534s
+	 58609490 60488141
+	The run-time for the round is 3.3345s
+	 49879167 42631932
+	The run-time for the round is 3.1880s
+	 35226434 36926661
+	The run-time for the round is 3.3032s
+	 46321519 62468320
+	The run-time for the round is 3.0890s
+	 49909331 45030809
+	The run-time for the round is 3.2110s
+	 64975769 48634953
+	The run-time for the round is 3.3525s
+	 56354184 53317435
+	The run-time for the round is 3.4700s
+The average run-time for 26-bit number is 3.6791s
+
+	 98885847 117844110
+	The run-time for the round is 4.6504s
+	 100588727 72571916
+	The run-time for the round is 4.8502s
+	 91333773 102514155
+	The run-time for the round is 4.7699s
+	 101232621 123148374
+	The run-time for the round is 4.9311s
+	 131522942 84118740
+	The run-time for the round is 4.7024s
+	 83715086 129845979
+	The run-time for the round is 4.7430s
+	 110089668 124028185
+	The run-time for the round is 3.4673s
+	 108930814 133373136
+	The run-time for the round is 3.3811s
+	 68461996 129933414
+	The run-time for the round is 3.5958s
+	 127798573 91167892
+	The run-time for the round is 4.0893s
+The average run-time for 27-bit number is 4.3181s
+
+	 145097206 144498546
+	The run-time for the round is 4.8745s
+	 211314142 216595540
+	The run-time for the round is 4.9905s
+	 234441515 138255940
+	The run-time for the round is 4.6499s
+	 254640896 178779750
+	The run-time for the round is 3.3514s
+	 173991044 250777187
+	The run-time for the round is 3.5324s
+	 145479269 158085341
+	The run-time for the round is 3.4433s
+	 198048663 179122637
+	The run-time for the round is 3.5538s
+	 157649373 178085928
+	The run-time for the round is 3.5226s
+	 167678844 249808689
+	The run-time for the round is 3.4658s
+	 186544262 213222724
+	The run-time for the round is 3.4319s
+The average run-time for 28-bit number is 3.8816s
+
+	 353002530 525248092
+	The run-time for the round is 5.0740s
+	 527427988 291253616
+	The run-time for the round is 5.0062s
+	 337597624 310781145
+	The run-time for the round is 5.1141s
+	 469351646 296060686
+	The run-time for the round is 5.0928s
+	 432668133 417422703
+	The run-time for the round is 3.5352s
+	 400058264 404937740
+	The run-time for the round is 3.6554s
+	 328573337 346497635
+	The run-time for the round is 3.6583s
+	 411098033 380921549
+	The run-time for the round is 3.8215s
+	 374907215 384309021
+	The run-time for the round is 3.5785s
+	 401455467 496580606
+	The run-time for the round is 4.0399s
+The average run-time for 29-bit number is 4.2576s
+
+	 1036502535 599927027
+	The run-time for the round is 5.2071s
+	 996788594 1004765680
+	The run-time for the round is 5.1030s
+	 699405650 663639603
+	The run-time for the round is 4.5704s
+	 744914814 837562923
+	The run-time for the round is 5.2139s
+	 1041130478 753944387
+	The run-time for the round is 4.6503s
+	 1041090943 1053569853
+	The run-time for the round is 5.1309s
+	 993405537 782937141
+	The run-time for the round is 4.4169s
+	 859105819 756634011
+	The run-time for the round is 3.7462s
+	 564057758 712907269
+	The run-time for the round is 3.7957s
+	 773394914 598312059
+	The run-time for the round is 5.1663s
+The average run-time for 30-bit number is 4.7001s
+
+	 2054639304 1717807846
+	The run-time for the round is 3.9112s
+	 2014742050 1699065305
+	The run-time for the round is 3.7931s
+	 1941695598 1676641542
+	The run-time for the round is 5.2926s
+	 1812242175 1445429544
+	The run-time for the round is 4.5386s
+	 1986449398 2069753163
+	The run-time for the round is 5.4421s
+	 1487702174 1773214326
+	The run-time for the round is 5.3599s
+	 1968368995 1684525999
+	The run-time for the round is 3.6110s
+	 1776089454 1985209878
+	The run-time for the round is 3.7711s
+	 1096225488 1709154342
+	The run-time for the round is 3.8855s
+	 1741972258 1930724124
+	The run-time for the round is 3.7754s
+The average run-time for 31-bit number is 4.3381s
+
+	 4285055709 3609638383
+	The run-time for the round is 4.0916s
+	 2998333283 3921949864
+	The run-time for the round is 3.9548s
+	 2999569843 3942998071
+	The run-time for the round is 3.9451s
+	 3491745531 2481562247
+	The run-time for the round is 3.9944s
+	 3108633868 3992304454
+	The run-time for the round is 3.8517s
+	 2625150308 3473536776
+	The run-time for the round is 4.0213s
+	 3967645761 2521591472
+	The run-time for the round is 4.1617s
+	 3872345859 3707977709
+	The run-time for the round is 3.8986s
+	 2866912163 3250870302
+	The run-time for the round is 5.1732s
+	 2306137632 2939418517
+	The run-time for the round is 5.6205s
+The average run-time for 32-bit number is 4.2713s
+
+	 5333229931 7201252724
+	The run-time for the round is 5.5226s
+	 5303388284 5024992696
+	The run-time for the round is 5.5732s
+	 4497950339 7785856944
+	The run-time for the round is 5.7946s
+	 7353061853 5567249444
+	The run-time for the round is 3.9931s
+	 6082497246 6717903178
+	The run-time for the round is 5.4804s
+	 6601525582 6807792880
+	The run-time for the round is 4.7797s
+	 4522314494 8174829148
+	The run-time for the round is 4.1989s
+	 6537676708 5375449051
+	The run-time for the round is 3.9201s
+	 8348264048 4539221050
+	The run-time for the round is 4.0272s
+	 4950467026 7748950092
+	The run-time for the round is 5.2965s
+The average run-time for 33-bit number is 4.8586s
+
+	 13863044102 14065033831
+	The run-time for the round is 4.1683s
+	 10741003440 16400968745
+	The run-time for the round is 4.1527s
+	 9249510203 8613509395
+	The run-time for the round is 5.1042s
+	 8840904440 12946559932
+	The run-time for the round is 5.7583s
+	 12274460896 13860965706
+	The run-time for the round is 5.7357s
+	 13946519577 15355364139
+	The run-time for the round is 5.7576s
+	 11662763261 8987075928
+	The run-time for the round is 4.8804s
+	 12195471119 12737492765
+	The run-time for the round is 4.0179s
+	 16221487929 10229446849
+	The run-time for the round is 4.0513s
+	 13133950451 16051371001
+	The run-time for the round is 4.4179s
+The average run-time for 34-bit number is 4.8044s
+
+	 19546806376 20235316033
+	The run-time for the round is 5.9314s
+	 26714864766 24098015529
+	The run-time for the round is 5.6088s
+	 22464022177 20758774428
+	The run-time for the round is 4.2362s
+	 27607331835 28496316670
+	The run-time for the round is 4.2789s
+	 27734705726 25535602628
+	The run-time for the round is 4.3165s
+	 26131541762 17777881813
+	The run-time for the round is 4.4644s
+	 25508806889 28961632382
+	The run-time for the round is 4.9490s
+	 29792923265 31058980606
+	The run-time for the round is 4.1478s
+	 18748415314 27243380314
+	The run-time for the round is 6.0348s
+	 23297269379 19112164558
+	The run-time for the round is 5.9325s
+The average run-time for 35-bit number is 4.9900s
+
+	 68690132349 61912064246
+	The run-time for the round is 5.4900s
+	 53658418093 67875962991
+	The run-time for the round is 6.0526s
+	 57848836110 48170993522
+	The run-time for the round is 4.1921s
+	 64665127293 34383504162
+	The run-time for the round is 4.1585s
+	 46108345736 42657086999
+	The run-time for the round is 4.4420s
+	 64737068208 49645655460
+	The run-time for the round is 6.1004s
+	 38539189399 50464740086
+	The run-time for the round is 4.2836s
+	 68505053370 58855624080
+	The run-time for the round is 4.4324s
+	 64719091714 37344840302
+	The run-time for the round is 4.3567s
+	 37788001896 39408005797
+	The run-time for the round is 4.4037s
+The average run-time for 36-bit number is 4.7912s
+
+	 126282289785 102098930070
+	The run-time for the round is 4.5275s
+	 114740114915 79640232217
+	The run-time for the round is 6.2717s
+	 134469436899 132854876355
+	The run-time for the round is 6.6263s
+	 96755445885 73496378539
+	The run-time for the round is 6.2278s
+	 93982665294 100912180750
+	The run-time for the round is 6.3181s
+	 121030815061 84337112518
+	The run-time for the round is 6.2890s
+	 80616481284 107247466636
+	The run-time for the round is 6.1932s
+	 94920769197 101061735256
+	The run-time for the round is 4.2976s
+	 96918806534 115139790735
+	The run-time for the round is 6.1229s
+	 89486320259 114175594035
+	The run-time for the round is 6.3324s
+The average run-time for 37-bit number is 5.9206s
+
+	 208997170943 259530245001
+	The run-time for the round is 5.5421s
+	 162655849041 150882611392
+	The run-time for the round is 4.8252s
+	 274136104885 263609319499
+	The run-time for the round is 4.5898s
+	 140876849965 179725480262
+	The run-time for the round is 4.4782s
+	 187536479621 152063255409
+	The run-time for the round is 5.9538s
+	 201088925256 271776908065
+	The run-time for the round is 6.5614s
+	 148468703542 273278575457
+	The run-time for the round is 4.9513s
+	 157757984144 273721161907
+	The run-time for the round is 6.2006s
+	 221324244855 216466799786
+	The run-time for the round is 4.5982s
+	 159635032859 261877476412
+	The run-time for the round is 4.4292s
+The average run-time for 38-bit number is 5.2130s
+
+	 320825271173 438289758861
+	The run-time for the round is 4.6610s
+	 424249509458 536935855422
+	The run-time for the round is 4.4975s
+	 319060021345 353894688983
+	The run-time for the round is 4.6035s
+	 340712753521 339928038787
+	The run-time for the round is 4.6714s
+	 281376558871 484955866579
+	The run-time for the round is 6.2610s
+	 312861738372 308437274922
+	The run-time for the round is 6.5058s
+	 414124448775 521436181302
+	The run-time for the round is 5.9477s
+	 421930034888 425188684476
+	The run-time for the round is 6.6532s
+	 382628788017 541532309922
+	The run-time for the round is 5.1102s
+	 309918466603 546999163778
+	The run-time for the round is 4.9398s
+The average run-time for 39-bit number is 5.3851s
+
+	 776958945433 1060803434389
+	The run-time for the round is 5.0210s
+	 879044553897 916330598231
+	The run-time for the round is 6.6059s
+	 1027786650775 920901227724
+	The run-time for the round is 6.1343s
+	 973147091065 805979807038
+	The run-time for the round is 4.7494s
+	 1008714502990 726064669900
+	The run-time for the round is 4.6273s
+	 645072057648 1021607904375
+	The run-time for the round is 4.7965s
+	 751166415293 1051139615647
+	The run-time for the round is 4.6508s
+	 703243387228 596028636128
+	The run-time for the round is 4.7969s
+	 616497734980 592623663749
+	The run-time for the round is 4.6717s
+	 747860742989 841345067462
+	The run-time for the round is 5.0717s
+The average run-time for 40-bit number is 5.1125s
+
+	 1570703919952 1723568266363
+	The run-time for the round is 5.0866s
+	 1909963302445 1650044755731
+	The run-time for the round is 4.7830s
+	 1988657748419 2092375642138
+	The run-time for the round is 4.9232s
+	 1276226831391 1533040553117
+	The run-time for the round is 6.8655s
+	 1832903758725 1154021075672
+	The run-time for the round is 6.8616s
+	 1799881372191 1361268037096
+	The run-time for the round is 4.8409s
+	 1777449708130 1925353423755
+	The run-time for the round is 5.3623s
+	 2066405694610 1705511848424
+	The run-time for the round is 5.0296s
+	 2110557060980 1341164322955
+	The run-time for the round is 4.5837s
+	 1256147991909 1553735759933
+	The run-time for the round is 5.0844s
+The average run-time for 41-bit number is 5.3421s
+
+	 2399616483397 3954954864440
+	The run-time for the round is 6.9696s
+	 3885557585333 4253469583608
+	The run-time for the round is 7.0120s
+	 3048636576989 2695603730314
+	The run-time for the round is 5.6623s
+	 3493039781479 4020616710398
+	The run-time for the round is 5.2158s
+	 3574389016525 2405814480698
+	The run-time for the round is 4.8499s
+	 2762560720396 2733935799471
+	The run-time for the round is 5.0082s
+	 3566162959967 2422966242987
+	The run-time for the round is 5.0759s
+	 3874576839140 4027191001015
+	The run-time for the round is 4.8912s
+	 3312725427677 4116845622888
+	The run-time for the round is 4.9099s
+	 2437061842237 3769315833397
+	The run-time for the round is 4.9041s
+The average run-time for 42-bit number is 5.4499s
+
+	 5436174992947 8540739718371
+	The run-time for the round is 7.2874s
+	 7162916989480 7347473789871
+	The run-time for the round is 7.5162s
+	 8125794236076 8776282501660
+	The run-time for the round is 4.8248s
+	 5055205170895 5096489878437
+	The run-time for the round is 5.2850s
+	 6279033441651 6853003494750
+	The run-time for the round is 7.0602s
+	 8292449700389 5069187011709
+	The run-time for the round is 4.9976s
+	 6356884778487 8414815041124
+	The run-time for the round is 7.2376s
+	 8524156757089 8274148149963
+	The run-time for the round is 7.3489s
+	 6163938203513 7206328578440
+	The run-time for the round is 6.6504s
+	 4405018307263 6913111982670
+	The run-time for the round is 6.0763s
+The average run-time for 43-bit number is 6.4284s
+
+	 9214874881717 13719806782777
+	The run-time for the round is 5.0658s
+	 11197118119007 16805476698368
+	The run-time for the round is 5.0571s
+	 14978406688229 17249034985524
+	The run-time for the round is 5.4526s
+	 10647459407185 10179578827881
+	The run-time for the round is 5.2508s
+	 14848709058121 12967573500544
+	The run-time for the round is 5.0768s
+	 10659410765167 12675015490462
+	The run-time for the round is 7.4902s
+	 16300836462574 9100351044607
+	The run-time for the round is 7.2409s
+	 13552856815673 10535893074961
+	The run-time for the round is 5.2010s
+	 9325441441335 16920578657735
+	The run-time for the round is 5.5374s
+	 9452126822663 12807162960149
+	The run-time for the round is 6.2626s
+The average run-time for 44-bit number is 5.7635s
+
+	 26422535081518 22591449509019
+	The run-time for the round is 7.3452s
+	 23743591601254 29731501904432
+	The run-time for the round is 5.7441s
+	 19502349735414 29136693789272
+	The run-time for the round is 5.4562s
+	 24580059212436 24207283939050
+	The run-time for the round is 6.5965s
+	 34702025882270 32143819415260
+	The run-time for the round is 7.6899s
+	 28912643388928 22645346589528
+	The run-time for the round is 6.0438s
+	 19045305249917 32481221550424
+	The run-time for the round is 5.2826s
+	 30867700144562 20661255263060
+	The run-time for the round is 5.1953s
+	 18832483404522 28970162169570
+	The run-time for the round is 6.3905s
+	 21287150755790 31156782660048
+	The run-time for the round is 7.4081s
+The average run-time for 45-bit number is 6.3152s
+
+	 69331459313584 66105815041157
+	The run-time for the round is 7.4369s
+	 59393165898871 54678452211462
+	The run-time for the round is 5.4823s
+	 43378175047653 52674943225955
+	The run-time for the round is 5.3789s
+	 37416284609251 42633552704378
+	The run-time for the round is 5.4022s
+	 58218673292582 56500585960975
+	The run-time for the round is 5.1088s
+	 69982511547188 43411826268570
+	The run-time for the round is 7.4049s
+	 64259392930038 61248691447181
+	The run-time for the round is 7.4921s
+	 61799251600871 48205912341571
+	The run-time for the round is 5.4384s
+	 49820180390266 60676915253070
+	The run-time for the round is 5.4039s
+	 69428433089240 64718743089202
+	The run-time for the round is 7.3079s
+The average run-time for 46-bit number is 6.1856s
+
+	 139274894005298 110484218877547
+	The run-time for the round is 5.3613s
+	 98452920308686 89126458049794
+	The run-time for the round is 7.6849s
+	 129760804623178 91405460507565
+	The run-time for the round is 6.4443s
+	 86435687175564 90783254456687
+	The run-time for the round is 5.4354s
+	 71187554091078 77308818805519
+	The run-time for the round is 5.5342s
+	 108684784017188 110895153504713
+	The run-time for the round is 5.4369s
+	 139515680469833 109446278474082
+	The run-time for the round is 7.5098s
+	 124436915115180 117876533196837
+	The run-time for the round is 5.5843s
+	 82520223756211 127862394280636
+	The run-time for the round is 5.5064s
+	 133121965641718 89635950302794
+	The run-time for the round is 5.5066s
+The average run-time for 47-bit number is 6.0004s
+
+	 273179845153760 159197819076117
+	The run-time for the round is 5.8093s
+	 147436932684947 165110468229901
+	The run-time for the round is 6.3163s
+	 273617858727865 208569125716444
+	The run-time for the round is 5.6204s
+	 157036503785222 188153234321562
+	The run-time for the round is 5.5079s
+	 270909027312491 186172547833741
+	The run-time for the round is 5.5108s
+	 231760820070267 250556064578577
+	The run-time for the round is 5.4065s
+	 197947483428379 251981273664019
+	The run-time for the round is 5.3609s
+	 226884126674896 271601123539969
+	The run-time for the round is 7.9873s
+	 263092173711209 212118231834233
+	The run-time for the round is 5.5258s
+	 278600070035996 205158803903154
+	The run-time for the round is 7.7850s
+The average run-time for 48-bit number is 6.0830s
+
+	 424360275258783 292954325869875
+	The run-time for the round is 5.7036s
+	 416329262723311 366372738034898
+	The run-time for the round is 5.8757s
+	 350226321976061 516399103187215
+	The run-time for the round is 7.8512s
+	 321562942965570 525544052917472
+	The run-time for the round is 5.3870s
+	 357793279317692 365850023429036
+	The run-time for the round is 6.3461s
+	 323777660955132 487652623372265
+	The run-time for the round is 8.0859s
+	 439725359627133 516986636200972
+	The run-time for the round is 6.0459s
+	 551045526151608 308258675231491
+	The run-time for the round is 5.6654s
+	 371955122430817 421739193322177
+	The run-time for the round is 8.2379s
+	 448866666735985 527006782306702
+	The run-time for the round is 7.9281s
+The average run-time for 49-bit number is 6.7127s
+
+	 651041043884764 967657124842962
+	The run-time for the round is 6.7251s
+	 932523478354504 1114166641566378
+	The run-time for the round is 5.7543s
+	 931220637095215 875385742028614
+	The run-time for the round is 7.0655s
+	 1069509311484568 671831267765243
+	The run-time for the round is 7.6351s
+	 1062940290023394 1056381687297854
+	The run-time for the round is 6.8001s
+	 921464104439476 991666694296625
+	The run-time for the round is 5.7055s
+	 785022460871330 855184637818830
+	The run-time for the round is 8.1987s
+	 583369990436041 747692777331046
+	The run-time for the round is 5.6682s
+	 677380361797681 595755139848016
+	The run-time for the round is 8.4242s
+	 1072531310785266 605443234052419
+	The run-time for the round is 7.9022s
+The average run-time for 50-bit number is 6.9879s
+
+	 1430037780115265 1463774716637862
+	The run-time for the round is 6.6862s
+	 1223330170539283 1848032792413386
+	The run-time for the round is 6.0557s
+	 1546389541432810 1171988073973556
+	The run-time for the round is 6.2837s
+	 1788138534621305 1278840662406323
+	The run-time for the round is 6.0458s
+	 1246439877060940 1377501976220607
+	The run-time for the round is 6.0232s
+	 1140962438749102 1392689674634811
+	The run-time for the round is 6.1045s
+	 2110270449432840 1531107341571840
+	The run-time for the round is 6.0059s
+	 2079307891351172 1419848055514014
+	The run-time for the round is 6.1214s
+	 1924966032616530 1940864368447319
+	The run-time for the round is 5.8733s
+	 1719415551902713 1190417424955418
+	The run-time for the round is 8.4694s
+The average run-time for 51-bit number is 6.3669s
+
+	 2314082998707662 2888231090145000
+	The run-time for the round is 8.5322s
+	 2713788482611869 4220573378341369
+	The run-time for the round is 6.1153s
+	 3010598314005685 3039253781044668
+	The run-time for the round is 5.9357s
+	 4469317891903760 2343648774703760
+	The run-time for the round is 6.0769s
+	 2633909930457179 3700902079530499
+	The run-time for the round is 6.2567s
+	 4378343211774064 2919676537690169
+	The run-time for the round is 5.8465s
+	 3467748224626474 2383356259868536
+	The run-time for the round is 5.9574s
+	 2452553411282605 3666362008358341
+	The run-time for the round is 8.6980s
+	 3298015469544389 3699087065783217
+	The run-time for the round is 8.5311s
+	 4171759132517625 2727606645717111
+	The run-time for the round is 5.6957s
+The average run-time for 52-bit number is 6.7645s
+
+	 8916498601200307 6025942860440946
+	The run-time for the round is 6.4172s
+	 8824466225864939 5846722892378693
+	The run-time for the round is 6.3258s
+	 8259307800232223 7972305269174615
+	The run-time for the round is 6.3174s
+	 4915675798166525 6800177808637866
+	The run-time for the round is 6.1542s
+	 6384888438336581 5348456346236836
+	The run-time for the round is 6.3975s
+	 4797740777183283 8760307557688183
+	The run-time for the round is 8.6599s
+	 7791375474008874 5989544825442637
+	The run-time for the round is 7.3005s
+	 4640489105495119 8244796108428006
+	The run-time for the round is 5.8971s
+	 5731123553729491 5596833113561204
+	The run-time for the round is 6.0874s
+	 8178754127709402 8433678014240109
+	The run-time for the round is 6.0176s
+The average run-time for 53-bit number is 6.5575s
+
+	 10525408216951342 9466656378623259
+	The run-time for the round is 8.8682s
+	 17527002817790992 10595781342680596
+	The run-time for the round is 6.9942s
+	 13036489699157806 17933095136808076
+	The run-time for the round is 8.9172s
+	 13918301049366523 13894040228494069
+	The run-time for the round is 6.2332s
+	 16860115201480645 15611912612792311
+	The run-time for the round is 6.2990s
+	 9127799294012788 16122549996204349
+	The run-time for the round is 6.8520s
+	 10790793843618058 10435010296001401
+	The run-time for the round is 6.1191s
+	 13448914257736342 15224066229628931
+	The run-time for the round is 5.9795s
+	 11283797454029331 14475786136695697
+	The run-time for the round is 8.1119s
+	 12710326823485281 16597044140918869
+	The run-time for the round is 6.1710s
+The average run-time for 54-bit number is 7.0545s
+
+	 24747647633643030 34061916256728869
+	The run-time for the round is 6.0089s
+	 23481455207617625 32817330494355298
+	The run-time for the round is 6.5065s
+	 30088270091040099 25520665107753592
+	The run-time for the round is 8.3212s
+	 18092764051583908 34624920219150123
+	The run-time for the round is 8.8913s
+	 34945162398858423 18063211385605451
+	The run-time for the round is 9.0696s
+	 29293634212947577 33704382360502136
+	The run-time for the round is 6.4932s
+	 28060200087768800 34403417878544052
+	The run-time for the round is 6.4347s
+	 33427878234338773 19642536649131653
+	The run-time for the round is 8.9179s
+	 33782824706494710 32265652719170331
+	The run-time for the round is 6.3481s
+	 25284442871951849 21047612239187809
+	The run-time for the round is 6.6015s
+The average run-time for 55-bit number is 7.3593s
+
+	 39422870481188021 66554447475966157
+	The run-time for the round is 9.4976s
+	 38623846756075500 47400169810639104
+	The run-time for the round is 6.4030s
+	 55553962745324257 47222528664951687
+	The run-time for the round is 6.4031s
+	 70981436769780680 38322619612260481
+	The run-time for the round is 6.8063s
+	 37645080230331600 67118120389346295
+	The run-time for the round is 9.0427s
+	 49136330352885884 54095899620916304
+	The run-time for the round is 6.9720s
+	 43506562158091978 71687074127475664
+	The run-time for the round is 8.7184s
+	 50026774587251898 37176709240589391
+	The run-time for the round is 6.5887s
+	 39016178013140867 64044964078616618
+	The run-time for the round is 8.8493s
+	 52723598577009663 71901326155612826
+	The run-time for the round is 6.3014s
+The average run-time for 56-bit number is 7.5582s
+
+	 132241313950254513 115553355168063473
+	The run-time for the round is 6.5921s
+	 138493654352221499 109595163998104290
+	The run-time for the round is 9.1787s
+	 78128316972951309 129521209404085444
+	The run-time for the round is 6.2914s
+	 138428926607864879 82286039374699725
+	The run-time for the round is 6.4556s
+	 143422530303530543 112552967839474851
+	The run-time for the round is 6.6275s
+	 118270485752808900 99684034493486629
+	The run-time for the round is 9.6133s
+	 103615200434332009 114271609015940316
+	The run-time for the round is 6.6387s
+	 102359994802035885 126510242419635883
+	The run-time for the round is 9.1696s
+	 122816812273378637 78077181689016820
+	The run-time for the round is 6.6655s
+	 82987647974975104 97421535544327725
+	The run-time for the round is 6.2426s
+The average run-time for 57-bit number is 7.3475s
+
+	 269416199410956990 211973803838310215
+	The run-time for the round is 6.7135s
+	 241915539181735791 202529857194216081
+	The run-time for the round is 9.2730s
+	 145147156186162103 148722952885628220
+	The run-time for the round is 9.4045s
+	 227091809871701588 161722269196611826
+	The run-time for the round is 6.6757s
+	 206310612166866772 154785046612603883
+	The run-time for the round is 7.8313s
+	 220613193904413024 160395129210455220
+	The run-time for the round is 8.3232s
+	 271486658486848910 211716844752765176
+	The run-time for the round is 6.7808s
+	 265841078616761529 188807973563462037
+	The run-time for the round is 9.4296s
+	 286457251076120013 284702358148384190
+	The run-time for the round is 6.4557s
+	 196048161241500279 226620054154654794
+	The run-time for the round is 9.4074s
+The average run-time for 58-bit number is 8.0295s
+
+	 374519232969356097 517235152310294125
+	The run-time for the round is 6.6015s
+	 308504255884877795 565252747080934042
+	The run-time for the round is 6.8264s
+	 538983329854822172 504102621306393028
+	The run-time for the round is 9.5167s
+	 320383621953368567 524547063117060146
+	The run-time for the round is 8.2256s
+	 417112135154244851 352022099446492281
+	The run-time for the round is 7.5561s
+	 349572012478256942 452637469109957546
+	The run-time for the round is 6.7455s
+	 322656024537050548 504528430499016640
+	The run-time for the round is 9.4684s
+	 458480871098194560 468755100264409130
+	The run-time for the round is 8.8020s
+	 566207525672663884 327373820509315004
+	The run-time for the round is 8.7852s
+	 474203685345380078 328412534959322751
+	The run-time for the round is 8.5750s
+The average run-time for 59-bit number is 8.1102s
+
+	 585973631137887278 1081718059605714993
+	The run-time for the round is 7.0057s
+	 800135229119722820 956267175020274488
+	The run-time for the round is 9.6644s
+	 1030736939466858599 619083731054962420
+	The run-time for the round is 6.6793s
+	 908425659939145507 700350033835306761
+	The run-time for the round is 6.8143s
+	 698925282980494121 752117204804415705
+	The run-time for the round is 6.8027s
+	 628820793735405675 662998231317349901
+	The run-time for the round is 8.0398s
+	 576702076097546163 711302877491749347
+	The run-time for the round is 7.0218s
+	 616933579884300004 771194671248714491
+	The run-time for the round is 6.7781s
+	 713093638797246869 714291283646818051
+	The run-time for the round is 6.9338s
+	 957554673347692882 695326417855947053
+	The run-time for the round is 6.8702s
+The average run-time for 60-bit number is 7.2610s
+
+	 1901352066968706074 2196305466574390481
+	The run-time for the round is 7.6467s
+	 1916651381131730983 2259701900029810717
+	The run-time for the round is 7.8513s
+	 2266743473483063678 1193869743432926134
+	The run-time for the round is 9.4412s
+	 1216966175203321101 1746274010632227176
+	The run-time for the round is 6.9686s
+	 2169267194227105965 1297973090511085735
+	The run-time for the round is 10.0378s
+	 1327688349638784063 2169936873809144054
+	The run-time for the round is 10.6372s
+	 2111860441619991228 1261232775933187569
+	The run-time for the round is 8.0320s
+	 1368623106498404190 1328557282230393142
+	The run-time for the round is 8.5294s
+	 1168764473366549798 1433050656966781620
+	The run-time for the round is 8.2484s
+	 2182946841892526799 1387031545799429701
+	The run-time for the round is 8.0423s
+The average run-time for 61-bit number is 8.5435s
+
+	 2614205212322935652 2512927198543857790
+	The run-time for the round is 7.5671s
+	 3037656069909938551 2340340577564887791
+	The run-time for the round is 11.1036s
+	 3886662377336962762 3874021429431669844
+	The run-time for the round is 9.4844s
+	 3183142582411793376 2888843913519976078
+	The run-time for the round is 8.1407s
+	 4334206313459630415 3093321932402767593
+	The run-time for the round is 7.1723s
+	 3055296039301446546 2348202558366369601
+	The run-time for the round is 7.0440s
+	 2884537721152498562 2586985423294619498
+	The run-time for the round is 9.8401s
+	 3319965053211684876 4568879224160806080
+	The run-time for the round is 8.4477s
+	 3455175002731701903 2866887161985853004
+	The run-time for the round is 7.2959s
+	 3719988287762994240 4539605688624907881
+	The run-time for the round is 10.2693s
+The average run-time for 62-bit number is 8.6365s
+
+	 5536109630787845845 5303405957379794205
+	The run-time for the round is 6.9437s
+	 5680010189517936941 5372061346817429031
+	The run-time for the round is 9.9236s
+	 5365978100830228195 7888621088074364510
+	The run-time for the round is 9.8116s
+	 7879009654987651631 4773321824354757067
+	The run-time for the round is 7.2443s
+	 5480160581205895445 6246139697172313771
+	The run-time for the round is 7.3280s
+	 6845462883339371544 5897677642656095843
+	The run-time for the round is 8.6632s
+	 4823986353679626477 8788236120298881045
+	The run-time for the round is 9.8849s
+	 8574548857484567374 4860560023374498431
+	The run-time for the round is 7.3205s
+	 8117718310091728390 5089022647232119692
+	The run-time for the round is 6.9398s
+	 4646931556410557790 5561502388430231301
+	The run-time for the round is 7.9470s
+The average run-time for 63-bit number is 8.2007s
+
+	 13961300872369192730 15807612319701979702
+	The run-time for the round is 10.3103s
+	 12470563837104060827 12588016518854324873
+	The run-time for the round is 7.2670s
+	 14861349184625133296 14657260692377019857
+	The run-time for the round is 10.2994s
+	 13351170967038377252 17080533171139881736
+	The run-time for the round is 7.4398s
+	 16022578713864258004 18021970334215791885
+	The run-time for the round is 7.1477s
+	 15258106822004351263 15350993805951153785
+	The run-time for the round is 7.7496s
+	 13658977849936750728 11310107206901318668
+	The run-time for the round is 10.5117s
+	 9280538754148139186 12825286782618626893
+	The run-time for the round is 10.3662s
+	 12672408333011643790 9331764161172175156
+	The run-time for the round is 7.3459s
+	 18417240281834503762 17608928812474790582
+	The run-time for the round is 7.3758s
+The average run-time for 64-bit number is 8.5813s
