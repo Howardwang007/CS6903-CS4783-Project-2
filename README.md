@@ -7,7 +7,7 @@ This project implemented two protocols to Yao's Millionaires' Problem. Both prot
     - via socket connection
     - Adopt congig.py support over 20 nodes
 - Millionaire Problem Based
-    - Fix Value via sending value
+    - RSA key size is determined by the bit-size of the value being sent
 2. Ioannidis and Ananth's protocol
 - Communication
     - communication takes place at localhost
