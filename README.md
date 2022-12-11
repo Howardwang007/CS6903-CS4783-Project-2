@@ -14,8 +14,8 @@ This project implemented two protocols to Yao's Millionaires' Problem. Both prot
     
 ## Usage
 Denpendencies:
-- cryptography
-- pycryptodome
+- cryptography ```pip install cryptography```
+- pycryptodome ```pip install pycryptodome```
 ### Yao's protocol
 TO FILL
 ### Ioannidis and Ananth's protocol
